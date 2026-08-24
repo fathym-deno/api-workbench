@@ -14,8 +14,8 @@
     // bump to the post-cascade release version once the JSR publish lands.
     // Kept at 0.0.406 for now so deno.jsonc stays syntactically valid; the
     // APIMode import in workbenches/api/local.ts will fail until the bump.
-    "@fathym/fai/workbenches": "jsr:@fathym/fai@0.0.406/workbenches",
-    "@fathym/fai/tools": "jsr:@fathym/fai@0.0.406/tools",
+    "@fathym/fai/workbenches": "jsr:@fathym/fai@0.0.785/workbenches",
+    "@fathym/fai/tools": "jsr:@fathym/fai@0.0.785/tools",
     "zod": "npm:zod@4.1.13"
   },
   "compilerOptions": {
