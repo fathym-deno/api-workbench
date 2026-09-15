@@ -46,7 +46,7 @@ curl http://localhost:4968/openapi.json | jq .paths
 
 1. In your workspace, drag a **SurfaceWorkbench** onto a surface.
 2. In the inspector **Source** tab, point at:
-   - Repo: `https://github.com/fathym-deno/api-workbench`
+   - Repo: `https://github.com/fathym/api-workbench`
    - Ref: `main` (or pin a commit/tag)
    - Entry: `workbenches/api/local.ts`
 3. In the **Hosting** tab, set **APISlug** (e.g. `api-sample`).
